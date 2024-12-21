@@ -1,0 +1,15 @@
+.home{
+    display: flex;
+    .Body{
+margin-left: 20px;
+width: 100%;
+
+
+    }
+}
+.contenu{
+    display: flex;
+}
+.mp{
+    display: flex;
+}

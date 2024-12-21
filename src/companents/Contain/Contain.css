@@ -1,0 +1,52 @@
+.body1{
+    display: flex;
+    justify-content: space-between;
+    flex: 1;
+    padding: 10px;
+    -webkit-box-shadow: 2px 4px 10px 1px rgba(0, 0, 0, 0.47);
+    box-shadow: 2px 4px 10px 1px rgba(201, 201, 201, 0.47);
+    border-radius: 10px;
+    height: 100px;
+    margin-top: 30px;
+    padding-left: 10px;
+
+}
+
+
+.titre{
+    font-weight: bold;
+      font-size: 14px;
+      color: rgb(160, 160, 160);
+
+}
+.Num{
+    color: black;
+
+font-size: 30px;
+
+}
+.all{
+    color: black;
+    width: max-content;
+      font-size: 12px;
+      border-bottom: 1px solid gray;
+}
+.icon2 {
+    font-size: 18px;
+    padding: 5px;
+    border-radius: 5px;
+    align-self: flex-end;
+    display: flex   ;
+  }
+  .pource{
+    color: rgb(124, 202, 6);
+    display: flex;
+    font-size: 14px;
+    align-self:flex-start;
+
+  }
+  .left,
+  .right {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;}
